@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 
+
 /*
 	Hyperspace by HTML5 UP
 	html5up.net | @ajlkn
@@ -1799,7 +1800,7 @@ input, select, textarea {
 
 	.box {
 		border-radius: 0.25em;
-		border: solid 1px rgba(255, 255, 255, 0.15);
+		border: solid 1px rgba(255, 12, 12, 0.259);
 		margin-bottom: 2em;
 		padding: 1.5em;
 	}
@@ -2860,6 +2861,7 @@ input, select, textarea {
 
 		}
 
+
 /* Section/Article */
 
 	section.special, article.special {
@@ -2867,7 +2869,7 @@ input, select, textarea {
 	}
 
 	header p {
-		color: rgba(255, 255, 255, 0.35);
+		color: rgba(0, 0, 0, 0.902);
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
